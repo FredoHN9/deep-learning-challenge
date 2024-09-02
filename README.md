@@ -37,6 +37,8 @@ This project develops a deep learning model to predict the success of funding ap
 - **Accuracy**: ~70.76%
 - **Loss**: ~0.0932
 
+(Most Successful Model out of the 3)
+
 The model shows moderate performance in predicting application success. While achieving ~70.76% accuracy, there's room for improvement.
 
 ## Key Findings
